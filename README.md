@@ -14,7 +14,8 @@ This project achieves the following:
    - Locates the `iframe` element with the class name `"rounded-3xl"`.
    - Extracts the `src` attribute to find the file ID.
    - Constructs a download URL and automatically downloads the PDF.
-
+     
+![scrap-gif](https://github.com/omchaudhari1107/Scrap-Collegpt/blob/main/scrap.gif)
 ## 📦 Dependencies
 
 - Selenium
