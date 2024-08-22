@@ -15,7 +15,6 @@ This project achieves the following:
    - Extracts the `src` attribute to find the file ID.
    - Constructs a download URL and automatically downloads the PDF.
 
-
 ## 📦 Dependencies
 
 - Selenium
